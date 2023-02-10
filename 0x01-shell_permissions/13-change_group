@@ -1,2 +1,14 @@
 #!/bin/bash
 chgrp school hello
+[master d7b3faf] Change group
+ 10 files changed, 1 insertion(+), 2 deletions(-)
+ mode change 100644 => 100755 0x01-shell_permissions/13-change_group
+ delete mode 100755 0x01-shell_permissions/3-new_owner
+ create mode 100644 0x01-shell_permissions/and
+ create mode 100644 0x01-shell_permissions/chmod
+ create mode 100644 0x01-shell_permissions/do
+ create mode 100644 0x01-shell_permissions/not
+ create mode 100644 0x01-shell_permissions/shebang
+ create mode 100644 0x01-shell_permissions/the
+ create mode 100644 0x01-shell_permissions/use
+ create mode 100644 0x01-shell_permissions/we
